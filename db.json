@@ -1,0 +1,468 @@
+{
+
+  "versterkerList": [
+    {
+      "id": "EV51-1444-122018",
+      "merk": "EVH",
+      "model": "5150 III",
+      "type": "TUBE",
+      "releaseDate": {
+        "year": 2018,
+        "month": 2,
+        "day": 1
+      },
+      "watt": 50.0,
+      "channels": 3,
+      "dimensions": [
+        216,
+        508,
+        304
+      ],
+      "weight": 11.4,
+      "image": "evh5150iii.jpg"
+    },
+    {
+      "id": "BU62-1442-1022016",
+      "merk": "Bugera",
+      "model": "6262 Infinium",
+      "type": "TUBE",
+      "releaseDate": {
+        "year": 2016,
+        "month": 2,
+        "day": 10
+      },
+      "watt": 120.0,
+      "channels": 2,
+      "dimensions": [
+        249,
+        687,
+        246
+      ],
+      "weight": 10.0,
+      "image": "bugera6262infinium.jpg"
+    },
+    {
+      "id": "PE65-1399-2082016",
+      "merk": "Peavey",
+      "model": "6505 Piranha MH",
+      "type": "HYBRID",
+      "releaseDate": {
+        "year": 2016,
+        "month": 8,
+        "day": 20
+      },
+      "watt": 20.0,
+      "channels": 2,
+      "dimensions": [
+        216,
+        254,
+        191
+      ],
+      "weight": 1.5,
+      "image": "peavey6505piranhamh.jpg"
+    },
+    {
+      "id": "POBI-1401-142018",
+      "merk": "Positive Grid",
+      "model": "Bias Mini Guitar",
+      "type": "DIGITAL",
+      "releaseDate": {
+        "year": 2018,
+        "month": 4,
+        "day": 1
+      },
+      "watt": 300.0,
+      "channels": 16,
+      "dimensions": [
+        266,
+        46,
+        248
+      ],
+      "weight": 2.5,
+      "image": "biasminiguitar.jpg"
+    },
+    {
+      "id": "JOBL-1415-132017",
+      "merk": "Joyo",
+      "model": "Bluejay",
+      "type": "HYBRID",
+      "releaseDate": {
+        "year": 2017,
+        "month": 3,
+        "day": 1
+      },
+      "watt": 20.0,
+      "channels": 1,
+      "dimensions": [
+        163,
+        110,
+        140
+      ],
+      "weight": 1.2,
+      "image": "bluejay.jpg"
+    },
+    {
+      "id": "ORCR-1397-1112013",
+      "merk": "Orange",
+      "model": "Crush Pro CR120H",
+      "type": "SOLID_STATE",
+      "releaseDate": {
+        "year": 2013,
+        "month": 11,
+        "day": 1
+      },
+      "watt": 120.0,
+      "channels": 2,
+      "dimensions": [
+        550,
+        230,
+        250
+      ],
+      "weight": 14.4,
+      "image": "crushprocr120h.jpg"
+    },
+    {
+      "id": "ENE6-1431-1722014",
+      "merk": "Engl",
+      "model": "E606",
+      "type": "TUBE",
+      "releaseDate": {
+        "year": 2014,
+        "month": 2,
+        "day": 17
+      },
+      "watt": 20.0,
+      "channels": 2,
+      "dimensions": [
+        335,
+        142,
+        217
+      ],
+      "weight": 1.0,
+      "image": "engle606.jpg"
+    },
+    {
+      "id": "AVEL-1402-18112014",
+      "merk": "Avid",
+      "model": "Eleven Rack",
+      "type": "PREAMP",
+      "releaseDate": {
+        "year": 2014,
+        "month": 11,
+        "day": 18
+      },
+      "watt": 0.0,
+      "channels": 16,
+      "dimensions": [
+        483,
+        343,
+        89
+      ],
+      "weight": 3.8,
+      "image": "elevenrack.jpg"
+    },
+    {
+      "id": "BOGT-1428-2742012",
+      "merk": "Boss",
+      "model": "GT-100",
+      "type": "PREAMP",
+      "releaseDate": {
+        "year": 2012,
+        "month": 4,
+        "day": 27
+      },
+      "watt": 0.0,
+      "channels": 16,
+      "dimensions": [
+        542,
+        80,
+        271
+      ],
+      "weight": 4.8,
+      "image": "bossgt100.jpg"
+    },
+    {
+      "id": "HUGR-1398-1192016",
+      "merk": "Hughes \u0026 Kettner",
+      "model": "GrandMeister Deluxe 40",
+      "type": "TUBE",
+      "releaseDate": {
+        "year": 2016,
+        "month": 9,
+        "day": 11
+      },
+      "watt": 40.0,
+      "channels": 4,
+      "dimensions": [
+        445,
+        170,
+        150
+      ],
+      "weight": 7.7,
+      "image": "grandmeisterdeluxe.jpg"
+    },
+    {
+      "id": "BLID-1416-23122015",
+      "merk": "Blackstar",
+      "model": "ID:Core 40H",
+      "type": "SOLID_STATE",
+      "releaseDate": {
+        "year": 2015,
+        "month": 12,
+        "day": 23
+      },
+      "watt": 40.0,
+      "channels": 6,
+      "dimensions": [
+        320,
+        160,
+        185
+      ],
+      "weight": 2.5,
+      "image": "idcore40.jpg"
+    },
+    {
+      "id": "ORMI-1430-17102015",
+      "merk": "Orange",
+      "model": "Micro Dark",
+      "type": "HYBRID",
+      "releaseDate": {
+        "year": 2015,
+        "month": 10,
+        "day": 17
+      },
+      "watt": 20.0,
+      "channels": 1,
+      "dimensions": [
+        165,
+        135,
+        95
+      ],
+      "weight": 1.0,
+      "image": "microdark.jpg"
+    },
+    {
+      "id": "MAOR-1443-1022016",
+      "merk": "Marshall",
+      "model": "Origin 50H",
+      "type": "TUBE",
+      "releaseDate": {
+        "year": 2016,
+        "month": 2,
+        "day": 10
+      },
+      "watt": 50.0,
+      "channels": 2,
+      "dimensions": [
+        557,
+        225,
+        228
+      ],
+      "weight": 11.8,
+      "image": "origin50h.jpg"
+    },
+    {
+      "id": "HEPE-1427-972017",
+      "merk": "Headrush",
+      "model": "Pedalboard",
+      "type": "PREAMP",
+      "releaseDate": {
+        "year": 2017,
+        "month": 7,
+        "day": 9
+      },
+      "watt": 0.0,
+      "channels": 12,
+      "dimensions": [
+        610,
+        305,
+        89
+      ],
+      "weight": 7.26,
+      "image": "headrush.jpg"
+    },
+    {
+      "id": "ENPO-1414-1532010",
+      "merk": "Engl",
+      "model": "Powerball II E645/2",
+      "type": "TUBE",
+      "releaseDate": {
+        "year": 2010,
+        "month": 3,
+        "day": 15
+      },
+      "watt": 100.0,
+      "channels": 4,
+      "dimensions": [
+        710,
+        270,
+        270
+      ],
+      "weight": 21.0,
+      "image": "powerballii.jpg"
+    },
+    {
+      "id": "KEPR-1413-542015",
+      "merk": "Kemper",
+      "model": "Profiling Amp",
+      "type": "DIGITAL",
+      "releaseDate": {
+        "year": 2015,
+        "month": 4,
+        "day": 5
+      },
+      "watt": 600.0,
+      "channels": 16,
+      "dimensions": [
+        396,
+        214,
+        165
+      ],
+      "weight": 6.1,
+      "image": "kemper.jpg"
+    },
+    {
+      "id": "RARG-1396-1112012",
+      "merk": "Randall",
+      "model": "RG 1503H",
+      "type": "SOLID_STATE",
+      "releaseDate": {
+        "year": 2012,
+        "month": 11,
+        "day": 1
+      },
+      "watt": 150.0,
+      "channels": 3,
+      "dimensions": [
+        630,
+        270,
+        270
+      ],
+      "weight": 15.0,
+      "image": "randallrg1503.jpg"
+    },
+    {
+      "id": "LISP-1429-1932017",
+      "merk": "Line6",
+      "model": "Spider V240H",
+      "type": "DIGITAL",
+      "releaseDate": {
+        "year": 2017,
+        "month": 3,
+        "day": 19
+      },
+      "watt": 240.0,
+      "channels": 16,
+      "dimensions": [
+        683,
+        272,
+        274
+      ],
+      "weight": 28.8,
+      "image": "spiderv240h.jpg"
+    },
+    {
+      "id": "VIV3-1400-1052018",
+      "merk": "Victory",
+      "model": "V30 The Countess MKII",
+      "type": "TUBE",
+      "releaseDate": {
+        "year": 2018,
+        "month": 5,
+        "day": 10
+      },
+      "watt": 42.0,
+      "channels": 2,
+      "dimensions": [
+        342,
+        185,
+        185
+      ],
+      "weight": 8.2,
+      "image": "v30thecountess.jpg"
+    }
+  ]
+,
+  "tubes": [
+    {
+      "id": "MESP-1446_ECC",
+      "parentModel": "5150 III",
+      "brand": "Mesa Boogie",
+      "model": "SPAX 12AX7",
+      "type": "ECC83",
+      "image": "spax12ax7.jpg"
+    },
+    {
+      "id": "TART-1447_EL8",
+      "parentModel": "GrandMeister Deluxe 40",
+      "brand": "TAD",
+      "model": "RT874",
+      "type": "EL84",
+      "image": "rt874.jpg"
+    },
+    {
+      "id": "ENGC-1448_6L6",
+      "parentModel": "V30 The Countess MKII",
+      "brand": "Engl",
+      "model": "GC-STR",
+      "type": "6L6",
+      "image": "gcstr.jpg"
+    },
+    {
+      "id": "TART-1449_6L6",
+      "parentModel": "Powerball II E645/2",
+      "brand": "TAD",
+      "model": "RT812",
+      "type": "6L6",
+      "image": "rt812.jpg"
+    },
+    {
+      "id": "GRDU-1450_EL8",
+      "parentModel": "E606",
+      "brand": "Groove Tubes",
+      "model": "Duett",
+      "type": "EL84",
+      "image": "groovetubesduett.jpg"
+    },
+    {
+      "id": "EL12-1451_6L6",
+      "parentModel": "6262 Infinium",
+      "brand": "Electro Harmonix",
+      "model": "12AX7EH",
+      "type": "6L6",
+      "image": "12ax7eh.jpg"
+    },
+    {
+      "id": "TU12-1452_ECC",
+      "parentModel": "Origin 50H",
+      "brand": "Tung-Sol",
+      "model": "12AX7",
+      "type": "ECC83",
+      "image": "tungsol12ax7.jpg"
+    },
+    {
+      "id": "SO6L-1453_6L6",
+      "parentModel": "6262 Infinium",
+      "brand": "Sovtek",
+      "model": "6L6WXT",
+      "type": "6L6",
+      "image": "sovtek6l6wxt.jpg"
+    },
+    {
+      "id": "ENEC-1454_ECC",
+      "parentModel": "5150 III",
+      "brand": "Engl",
+      "model": "ECC 83 Select",
+      "type": "ECC83",
+      "image": "ecc83select.jpg"
+    },
+    {
+      "id": "GR6L-1455_6L6",
+      "parentModel": "V30 The Countess MKII",
+      "brand": "Groove Tubes",
+      "model": "6L6-CHP",
+      "type": "6L6",
+      "image": "groove6l6chp.jpg"
+    }
+  ]
+}
